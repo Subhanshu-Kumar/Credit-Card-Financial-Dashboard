@@ -1,6 +1,6 @@
-# Credit Card Financial Dashboard with Power Bi
-
-The query editing was done in 'ProgreSQL,' and the visualization part used 'Microsoft Power BI.' Also, for analysis, I used PowerBI's query tool.
+# Credit_Card_Financial_Dashboard
+Real-time Credit Card Financial Dashboard using ProgreSQL and Microsoft Power BI
+The query editing was done in 'ProgreSQL,' and the visualization part used 'Microsoft Power BI.' Also, for analysis, I used Power BI's query tool.
 
 
 **Setup**
